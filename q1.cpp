@@ -2,8 +2,8 @@
 //2010990528
 //Set No. 04
 //Question 1
-#include <iostream>
-#include <unordered_set>
+#include<iostream>
+#include<unordered_set>
 using namespace std;
 int findMinIndex(int arr[], int n){
     int minimumIndex=n;
