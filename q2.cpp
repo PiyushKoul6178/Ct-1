@@ -64,7 +64,7 @@ int main(){
         cout<<"The array does not contain consecutive integers as element "<<arr[index]<<" is repeated"<<endl;
     }
     else{
-        cout<<"The array does not contain consective intergers"<<endl;
+        cout<<"The array does not contain consective integers"<<endl;
     }
     }
 }
